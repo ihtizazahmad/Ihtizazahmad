@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Ihtizaz Ahmad, your go-to Full Stack Developer!
 
-🌟 **Elite Full-Stack Developer**: With over 4 years of experience, I've honed my skills to perfection, delivering exceptional results across numerous projects.
+🌟 **Elite Full-Stack Developer**: With over 5 years of experience, I've honed my skills to perfection, delivering exceptional results across numerous projects.
 
 🛠️ **Technology Expertise**: Specializing in both MEAN and MERN stacks, I thrive in crafting standalone and API-driven web applications, with expertise in Angular, React, Next.js, Node.js, Express.js, and Nest.js.
 
