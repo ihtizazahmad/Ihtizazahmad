@@ -1,67 +1,80 @@
-# Hi there, I'm Ihtizaz Ahmad 👋
+<div align="center">
 
-**Senior Full-Stack Developer | Top Rated Plus on Upwork | MEAN & MERN Stack Expert**
-
-I am a Senior Full-Stack Developer with over 5 years of experience architecting and delivering scalable, high-performance web applications. I specialize in building robust APIs, seamless payment integrations, and dynamic user interfaces for global clients ranging from ambitious startups to Fortune 500 companies. 
-
-Currently, I am expanding my cloud expertise by preparing for AWS certifications and integrating Generative AI into modern development workflows.
-
----
-
-### 🚀 What I Do
-
-*   **End-to-End Development:** Crafting responsive, client-centric solutions using the **MEAN** and **MERN** stacks.
-*   **API & Backend Engineering:** Designing lightning-fast, secure APIs using Node.js, Express.js, and Nest.js.
-*   **FinTech Integrations:** Proven track record of seamless payment integrations with Stripe, Google Pay, Apple Pay, and PayPal.
-*   **Cloud & Deployment:** Deploying and scaling applications across Vercel, Render, Heroku, and AWS.
-*   **AI-Enhanced Development:** Leveraging tools like Gemini, Claude, and Cursor to accelerate development and solve complex problems.
-
----
-
-### 💻 Tech Stack & Tools
-
-**Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
-**Databases & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
----
-
-### 📈 GitHub Stats
+<!-- Animated Typing Text -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B+I'm+Ihtizaz+Ahmad;Senior+Full-Stack+Developer;MEAN+%26+MERN+Stack+Expert;Top+Rated+Plus+on+Upwork;Turning+Ideas+into+Scalable+Products" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihtizazahmad&show_icons=true&theme=radium&hide_border=true" alt="Ihtizaz's GitHub Stats" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-Whether you want to discuss a new project, talk about cloud architecture, or just say hi, feel free to reach out!
-
-<p>
-  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_UPWORK_URL_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  <a href="YOUR_UPWORK_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
   <a href="https://wa.me/923259976577" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=ihtizazahmad&countColor=%233B82F6&style=flat-square)
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation Placeholder" />
+
+- 🚀 **Role:** Senior Full-Stack Developer with **5+ years** of experience delivering robust web apps for startups to Fortune 500s.
+- 💻 **Tech Focus:** Mastering **MEAN** & **MERN** stacks, crafting API-driven microservices, and orchestrating cloud deployments.
+- 💳 **Specialties:** Secure FinTech integrations (Stripe, Apple/Google Pay, PayPal) and scalable database architecture.
+- 🧠 **Currently:** Preparing for **AWS Certifications** and integrating **Generative AI** (Gemini, Claude) into modern workflows.
+- 🤝 **Work Style:** 100% on-time delivery track record across 15+ global projects.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+*Hover over the icons below!*
+
+<div align="center">
+  
+  **Frontend & Frameworks**<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs,tailwind,bootstrap,html,css" />
+  </a>
+  <br><br>
+  
+  **Backend & Databases**<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,supabase,graphql" />
+  </a>
+  <br><br>
+
+  **Cloud, DevOps & AI**<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github,postman" />
+  </a>
+  
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ihtizazahmad&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Ihtizaz Ahmad Trophies" />
+  </a>
+</div>
+
+---
+
+### 📊 Development Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihtizazahmad&theme=radical&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihtizazahmad&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
